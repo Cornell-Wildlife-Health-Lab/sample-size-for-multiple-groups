@@ -1,1 +1,1 @@
-# sample-size-for-multiple-groups
+The scripts used for the Sample Size for Multiple Groups Model linked from the CWD Data Warehouse are openly available at Hanley et al (2024; https://doi.org/10.7298/ka5p-bj90). The theory underlying the  model is at Booth et al. (2024; https://doi.org/10.1007/s13253-023-00578-7). 
